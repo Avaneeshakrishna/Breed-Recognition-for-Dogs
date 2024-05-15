@@ -18,4 +18,5 @@ Dog breed classification using deep learning has become a significant applicatio
 
 * Download the ipynb file
 * Upload to your kaggle notebook
-* Upload the stanford dogs datasets (https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset) to the kaggle notebook
+* Upload the stanford dogs datasets (https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset) to the Kaggle notebook
+* Make sure the accelerator GPU T4 x2 is checked

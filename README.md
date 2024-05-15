@@ -1,6 +1,6 @@
 # Breed-Recognition-for-Dogs
 
-In this project, we train and test a deep learning model to classify the dog breeds.
+In this project, we train and test a deep learning model(ResNet50) to classify the dog breeds.
 
 ## Description
 
